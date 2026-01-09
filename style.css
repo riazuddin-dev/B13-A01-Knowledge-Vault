@@ -19,7 +19,6 @@
 .nav-parents {
   width: 1600px;
   height: 92px;
-  border: solid 1px red;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -107,11 +106,12 @@
   justify-content: center;
 }
 
-
-
-.hero-heading .Early:hover{ background-color:green; color: #ffff;
+.hero-heading .Early:hover {
+  background-color: green;
+  color: #ffff;
   transform: translateY(-6px);
-  transition: 0.5s;}
+  transition: 0.5s;
+}
 
 .hero-early {
   align-items: center;
