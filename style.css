@@ -292,3 +292,38 @@ margin-left: 10px;}
   font-style: medium;
   gap: 6px;
 }
+/* chalenge task  */
+.chaleng-contenar{ background-color:#F7F6F2; width: 1360px; height: 385px; margin: 0 auto; text-align: center;}
+
+.chalenge-titel{width: 1280px; height: 113px; padding: 80px 40px; }
+
+.chalenge-titel h2{font-size: 40px; font-weight: 700; font-style: bold; padding-bottom:16px;}
+.chalenge-titel p{font-size:16px; font-weight: 400; font-style: normal; color: #627382;  padding-bottom: 24px;}
+
+.btn-3{ display: flex;
+  width: 250px;
+  height: 53px;
+  background-color: #30b868;
+  color: #ffff;
+  border-radius: 4px;
+  border: none;
+  margin-top: 42px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 500px;
+  gap: 6px;
+
+
+}
+
+
+.btn-div{ margin-top: 30px; align-items: center; justify-content: center; text-align: center;}
+
+
+.btn-p{font-size: 16px; font-weight: 400; text-align:center; margin-right: 120px; padding-top: 16px; color: #627382;}
+
+.btn-3:hover{ border: solid 1px white;  transform: translateY(-6px);
+  transition: 0.5s;}
+
+
+  /* footer section  */
