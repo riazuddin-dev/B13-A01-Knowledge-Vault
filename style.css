@@ -435,3 +435,4 @@
   transform: translateY(-6px);
   transition: 0.5s;
 }
+.copy-right{ align-items: center; justify-content:center ;text-align: center; margin: 0 auto; background-color: #001931; color: #ffff; padding: 3px;}
