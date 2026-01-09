@@ -129,7 +129,7 @@
 .hero-heading h1 {
   font-size: 72px;
   width: 770px;
-  height: 168px;
+  height: 100%;
   text-transform: capitalize;
 }
 .hero-h {
